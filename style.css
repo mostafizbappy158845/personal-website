@@ -1,0 +1,124 @@
+body{
+
+    font-family: 'Oswald', ;
+     margin: 0; 
+}
+h1{
+    font-size: 40px;
+}
+/* h2{
+    font-size: 50px;
+} */
+.name-highlighit{
+    color: crimson;
+}
+p{
+    color: darkviolet;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 4%;
+}
+.half-width img{
+    width: 65%;
+    padding-top: 50px;
+    /* float:right; */
+    
+}
+.top-side{
+    background-image: url(personal-website/header-bg2.png);
+    
+     background-size: 100%; 
+    background-repeat: no-repeat;
+    
+     /* margin-left: 30px; 
+    margin-right: 30px; */
+    
+
+}
+section{
+     height: 600px; 
+}
+
+
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+   border-radius: 10px; 
+   font-weight: 700;
+   color:white;
+   background-image:linear-gradient(45deg,blue,red);
+}
+.bio-area{
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    /* margin-left: 30px;
+    margin-right: 30px; */
+}
+.work{
+    text-align: center;
+    font-weight: 700;
+}
+ .one3-width{
+    width: 20%;
+     float: left; 
+    margin-left: 8%;    
+    margin-right: 3.5%;
+    /* padding-left: 2%; */
+    
+}
+.one3-width img{
+    width: 130%;
+    align-items: center;
+    /* margin: 10%;
+    padding: 10%; */
+}
+.work-area{
+    background-image: url(personal-website/latest-work-bg.png);
+    /* margin-left: 0px; */
+    /* margin-left: 30px;
+    margin-right: 30px; */
+} 
+.client{
+    text-align: center;
+    font-weight: 700;
+}
+h4{
+    font-weight: 700;
+}
+h5{
+   color:rgba(0, 153,0.192)  ;
+    font-weight: 700;
+}
+q{
+    text-align: center;
+}
+#mail-box{
+    /* text-decoration: none; */
+      padding: 30px 20px; 
+   border-radius: 10px; 
+   font-weight: 700;
+    background-color: tomato;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+   
+}
+.client-area{
+    background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+    /* margin-left: 30px;
+    margin-right: 30px; */
+    background: position 50%;;
+}
+footer{
+    text-align: center;
+    margin-top: 60px;
+}
+#founder-color{
+    color: rgb(117, 199, 226);
+}
